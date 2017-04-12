@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Holaaaaaa a todos!!!
+=======
+<<<<<<< HEAD
+Hola grupoooo feliz pascua jajaja!!!
+=======
+Buenas!!!
+>>>>>>> 472453c661946977b3291d1a405e31dfedbf8bb2
+>>>>>>> df2d5be4e30f7563cee6e8805560cb28391498d2
