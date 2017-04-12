@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola grupoooo feliz pascua jajaja!!!
+=======
+Buenas!!!
+>>>>>>> 472453c661946977b3291d1a405e31dfedbf8bb2
